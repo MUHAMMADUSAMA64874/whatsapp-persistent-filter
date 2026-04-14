@@ -10,7 +10,7 @@ A Chrome extension that keeps the WhatsApp Web search bar locked to a persistent
 
 ## Installation
 
-1. Download or clone this repository 
+1. Download or clone this repository
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" in the top right
 4. Click "Load unpacked" and select the folder containing the extension files (`manifest.json`, `content.js`, `styles.css`)
