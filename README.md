@@ -6,7 +6,7 @@ A Chrome extension that keeps the WhatsApp Web search bar locked to a persistent
 
 - Automatically maintains search text in WhatsApp Web search box
 - Prevents the search filter from being cleared
-- Lightweight and non-intrusive
+- Lightweight and non-intrusive 
 
 ## Installation
 
